@@ -1,0 +1,5 @@
+name: ProjetInfecte
+version: '1.0-PROTOTYPE'
+main: org.nokoshizen.projetInfecte.ProjetInfecte
+api-version: '1.21'
+depend: [ProtocolLib]
